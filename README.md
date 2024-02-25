@@ -5,12 +5,12 @@
 # Assignment: Homework - - Term Project
 # Description: 
 
-       <p>
+       
        How can natural language processing techniques be leveraged to develop an efficient search 
        algorithm for product discovery on the Amazon Review Dataset? Additionally, 
        how can the top reviews within a specific product category be utilized to create a recommender system, 
        ultimately presenting users with a curated list of top 10 products for purchase?
-       </p>
+       
 # Professor: Prof. Dimitar Trajanov, PhD.
 # Facilitar: Nathan A. Horak (Group 2)
  
