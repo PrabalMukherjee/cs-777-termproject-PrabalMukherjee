@@ -13,10 +13,12 @@
        
 # Professor: Prof. Dimitar Trajanov, PhD.
 # Facilitar: Nathan A. Horak (Group 2)
- 
+
 # Folders:
 
 > .\data\input   : contains input data files
+Taken from https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/categoryFilesSmall/Digital_Music_5.json.gz
+
 > .\output_*     : contains spark output
 
 # Files
@@ -32,7 +34,7 @@
   Main task script to get search result in TFIDF and other techniques based on </b>
   parameters, and get recommendation from ALS model
 
-> mukherjee_prabal_term_project_cs777_helper.py </b>
+> mukherjee_prabal_term_project_cs777_helper.py> </b>
   Helper module that contains all the function like loading, claening preprocessing dataset <b>
   Creating pipelines for different transformation, get top 10 records using cosine calculator
   training and tuning ALS model and getting recommendation.
